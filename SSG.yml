@@ -1,6 +1,10 @@
 team: SSG
 
+<<<<<<< HEAD
 manager: 송동호
+=======
+manager: 장원
+>>>>>>> 0b9b14422e03c0fafb34b8e8f8b80749c58ade9c
 
 members:
 - 김광현
